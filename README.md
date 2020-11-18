@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello! I am a programmer who is passionate about using and developing mathematical & computational tools to solve complex problems in the physical and life sciences. 
+
+- 🔭 I’m currently working on (1) reimplementing Hidden Markov induced Bayesian Dynamic Networks for gene regulatory network inference and (2) building an interface for COVID19 machine learning prediction models 
+- 🌱 I’m currently learning Node.js and React
+- 📫 How to reach me: hs764{at}cornell{dot}edu
+- 😄 Pronouns: she/her/hers
 
 <!--
 **HilarieSit/hilariesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
