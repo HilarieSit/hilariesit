@@ -1,21 +1,18 @@
-Hello! I am a programmer who is passionate about using and developing mathematical & computational tools to solve complex problems in the physical and life sciences. 
+### Hi, I'm Hilarie! 
+I am a Machine Learning Researcher...   
+[![PyTorch](https://img.shields.io/badge/Pytorch-gray?style=for-the-badge&logo=pytorch)](#)
+[![TF](https://img.shields.io/badge/Tensorflow-gray?style=for-the-badge&logo=tensorflow)](#)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-gray?style=for-the-badge&logo=scikitlearn)](#)
+[![NumPy](https://img.shields.io/badge/numpy-gray?style=for-the-badge&logo=numpy)](#)
+[![Pandas](https://img.shields.io/badge/pandas-gray?style=for-the-badge&logo=pandas)](#)
+[![NLTK](https://img.shields.io/badge/NLTK-gray?style=for-the-badge)](#)
 
-- 🔭 I’m currently working on (1) reimplementing Hidden Markov induced Bayesian Dynamic Networks for gene regulatory network inference and (2) building an interface for COVID19 machine learning prediction models 
-- 🌱 I’m currently learning Node.js and React
-- 📫 How to reach me: hs764{at}cornell{dot}edu
-- 😄 Pronouns: she/her/hers
+... and a Web Developer on the side   
+[![Flask](https://img.shields.io/badge/flask-gray?style=for-the-badge&logo=flask)](#)
+[![VueJS](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vuedotjs)](#)
+[![ReactJS](https://img.shields.io/badge/React.js-gray?style=for-the-badge&logo=react)](#)
+[![ThreeJS](https://img.shields.io/badge/Three.js-gray?style=for-the-badge&logo=threedotjs)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3)](#)
+[![Javascript](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript)](#)
 
-<!--
-**HilarieSit/hilariesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
