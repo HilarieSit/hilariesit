@@ -31,11 +31,15 @@ I am a Provost's STEM Postdoctoral Fellow in Data Science and Earth, Environment
 [![a3](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=a3)](https://github.com/HilarieSit/a3)
 [![colorunittest](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=colorunittest)](https://github.com/HilarieSit/colorunittest)
 
-### ⭐ &nbsp; Web Dev
+### ⭐ &nbsp; Web Development
 [![clubmanage](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=ClubManage-backend)](https://github.com/HilarieSit/ClubManage-backend)
 [![dreamworthie](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=dreamworthie)](https://github.com/HilarieSit/dreamworthie)
 [![arduino](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=animate-3d-arduino)](https://github.com/HilarieSit/animate-3d-arduino)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=HilarieSit.github.io)](https://github.com/HilarieSit/HilarieSit.github.io)
 [![ceegsa](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=ceegsa-redesigned)](https://github.com/HilarieSit/ceegsa-redesigned)
+[![timeserieslabeler](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=timeseriesvideolabeler-frontend)](https://github.com/HilarieSit/timeseriesvideolabeler-frontend)
+
+### ⭐ &nbsp; Other Projects
+[![hmdbn](https://github-readme-stats.vercel.app/api/pin/?username=HilarieSit&repo=hmdbn)](https://github.com/HilarieSit/hmdbn)
 
 </details>
